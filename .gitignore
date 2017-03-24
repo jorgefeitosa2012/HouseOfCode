@@ -1,0 +1,6 @@
+# For all files inside dist
+dist/
+# For all files inside build
+dist/
+# Para código C
+*.so
