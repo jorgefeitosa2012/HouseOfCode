@@ -1,8 +1,10 @@
-# For all files inside dist
-dist/
-
-# For all files inside build
+# Netbeans gitignore
+nbproject/private/
 build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
 
 # Prerequisites
 *.d
